@@ -1,0 +1,1 @@
+It is the first day of spring, September 1st 2021, and I am starting my first project with The Odin Project. This task asks us to create a Google homepage. I am nervous about starting this as I am very new to programming but looking forward to the challenge and concreting some of the information I have learnt so far.
