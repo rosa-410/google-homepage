@@ -1,0 +1,1 @@
+Its the first day of Spring! I am writing my first every assignment for The Odin Project today. The task is to design a Google homepage. I am feeling really nervous about knowing anough to complete the task but happy to take my time and revisit anything that I do not understand.
